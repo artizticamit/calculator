@@ -1,0 +1,4 @@
+node_modules
+.py
+.env
+.DS_Store
